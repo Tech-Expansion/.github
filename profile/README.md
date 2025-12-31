@@ -7,6 +7,6 @@
 - X: [@texlabsorg](https://x.com/texlabsorg)
 - Facebook: [@texlabsorg](https://www.facebook.com/texlabsorg)
 
-## PWe are building, developing, and operating products:
+## We are building, developing, and operating products:
 - Midnight Explorer: The biggest explorer on the Midnight Network - [midnightexplorer.com](https://www.midnightexplorer.com)
 - Texswap: Decentralized exchange on Midnight Network - [texswap.org](https://www.texswap.org)
