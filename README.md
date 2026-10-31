@@ -1,12 +1,4 @@
-# TEX Labs
+# .github
 
-## General information
-
-- Company name: Tech Expansion
-- Website: [texlabs.org](https://www.texlabs.org/)
-- X: [@texlabsorg](https://x.com/texlabsorg)
-- Facebook: [@texlabsorg](https://www.facebook.com/texlabsorg)
-
-## PWe are building, developing, and operating products:
-- Midnight Explorer: The biggest explorer on the Midnight Network - [midnightexplorer.com](https://www.midnightexplorer.com)
-- Texswap: Decentralized exchange on Midnight Network - [texswap.org](https://www.texswap.org)
+The public profile of [Tech Expansion](https://github.com/Tech-Expansion). GitHub shows
+[`profile/README.md`](profile/README.md) on the organization page; edit that file to change the page.
